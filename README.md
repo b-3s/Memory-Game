@@ -3,7 +3,7 @@
 ## How to play:
 This is a memory matching game.
 
-- Flip 2 Cards an compare them
+- Flip 2 Cards and compare them
 - if match: cards will remain open
 - if cards don`t match: cards flip back
 - next try: flip 2 cards and compare ...
